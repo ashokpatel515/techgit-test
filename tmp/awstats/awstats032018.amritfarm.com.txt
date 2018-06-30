@@ -1,0 +1,568 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/amritfar/tmp/awstats/awstats.amritfarm.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2688                
+POS_VISITOR 9484                
+POS_DAY 16408               
+POS_DOMAIN 3394                
+POS_LOGIN 4035                
+POS_ROBOT 4190                
+POS_WORMS 4477                
+POS_EMAILSENDER 4608                
+POS_EMAILRECEIVER 4751                
+POS_SESSION 16849               
+POS_SIDER 17030               
+POS_FILETYPES 4886                
+POS_DOWNLOADS 5135                
+POS_OS 5183                
+POS_BROWSER 5414                
+POS_SCREENSIZE 6214                
+POS_UNKNOWNREFERER 6288                
+POS_UNKNOWNREFERERBROWSER 6945                
+POS_ORIGIN 7177                
+POS_SEREFERRALS 7317                
+POS_PAGEREFS 7481                
+POS_SEARCHWORDS 7707                
+POS_KEYWORDS 7868                
+POS_MISC 2352                
+POS_ERRORS 7936                
+POS_CLUSTER 3891                
+POS_SIDER_404 8072                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401004805 22 4765 10277131637409
+FirstTime 20180316120005
+LastTime 20180331073240
+LastUpdate 20180401063336 22 0 21 0 0
+TotalVisits 203                 
+TotalUnique 176                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 176                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 49 49 316323 2 2 5112
+1 9 9 265419 0 0 0
+2 53 53 212141 0 0 0
+3 6 6 112290 3 4 10224
+4 3 3 153152 0 6 1584084
+5 6 6 158231 2 2 2556
+6 21 52 6727958 2 10 164402
+7 31 31 91414 0 0 0
+8 3019 3050 8188247 2 6 10224
+9 7 7 231836 0 0 0
+10 34 34 297162 2 4 53599
+11 15 46 6295344 17 55 1374986
+12 8 15 134852 1 3 5112
+13 9 9 71451 1 2 0
+14 21 43 6456516 7 17 35784
+15 14 14 295634 1 5 10224
+16 28 28 204883 1 1 0
+17 10 10 139954 1 1 0
+18 33 33 332107 7 12 474667
+19 85 85 508634 3 3 494
+20 32 32 195076 7 10 1290541
+21 55 55 362719 2 2 53599
+22 33 33 195663 1 1 42
+23 5 5 206723 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+fr 3015 3015 2063889
+mx 161 161 515002
+br 74 74 236231
+cn 59 59 675451
+us 58 58 2036718
+co 49 49 157919
+ph 48 48 153445
+in 46 168 25333632
+sa 25 25 80235
+ru 10 10 267888
+de 6 6 155751
+ca 6 6 257766
+gb 3 3 7653
+no 3 3 7653
+hk 3 3 7653
+kr 2 2 102086
+vn 2 2 5102
+jp 2 2 5102
+ae 2 2 5449
+ag 1 1 2551
+be 1 1 2551
+it 1 1 2551
+th 1 1 2551
+ro 1 1 2551
+bd 1 1 51043
+eg 1 1 2551
+pl 1 1 2551
+id 1 1 2551
+cl 1 1 2551
+nl 1 1 2551
+az 1 1 2551
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 33 1329047 20180331113219 0
+googlebot\-image 11 3368156 20180331045030 0
+no_user_agent 3 153129 20180320214957 0
+spider 1 51043 20180324102839 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+php 3486 3297934 0 0
+css 18 1029912 0 0
+ttf 8 1007488 0 0
+xml 1 1045 0 0
+js 32 778964 0 0
+jpg 4 1079000 0 0
+html 83 4502138 0 0
+png 68 20123328 0 0
+woff 4 261808 0 0
+woff2 4 72112 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+ios_iphone 2 2
+Unknown 20 20
+win8.1 2 2
+macosx9 1 1
+java 1 1
+win7 492 401
+winnt 3130 3130
+linux 11 11
+win8 1 1
+linuxandroid 42 11
+macosx8 2 2
+winlong 1 1
+macosx 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 38
+chrome62.0.3202.94 3 3
+safari 1 1
+chrome49.0.2623.75 3 3
+firefox46.0 1 1
+chrome63.0.3239.132 3009 3009
+chrome61.0.3163.100 3 3
+chrome26.0.1410.65 1 1
+safari9.0 3 3
+chrome65.0.3325.181 11 4
+chrome45.0.2454.94 1 1
+firefox59.0 38 7
+chrome31.0.1650.57 8 8
+chrome57.0.2987.133 2 2
+chrome26.0.1410.63 1 1
+firefox38.0 2 2
+chrome34.0.1847.137 1 1
+chrome11.0.696.71 4 4
+netscape 2 2
+chrome41.0.2272.118 1 1
+chrome58.0.3029.110 4 4
+chrome40.0.2214.85 1 1
+chrome64.0.3282.186 67 14
+chrome61.0.3116.0 3 3
+chrome37.0.2062.124 1 1
+msie10.0 1 1
+msie8.0 3 3
+chrome53.0.2785.143 111 111
+msie9.0 1 1
+chrome21.0.1180.89 3 3
+firefox51.0 2 2
+firefox52.0 1 1
+firefox57.0 2 2
+android 3 3
+msie11.0 354 354
+mozilla 6 6
+chrome65.0.3325.109 36 5
+firefox53.0 1 1
+Unknown 13 13
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress/4.9.4;_http://amritfarm.com 20180331064844
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20180321065243
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20180319181215
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20180320043805
+Mozilla 20180329184805
+Mozilla/5.0_(compatible;_ips-agent) 20180321141733
+Python/3.6_aiohttp/2.3.10 20180320041920
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180317153637
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python/3.6_aiohttp/2.3.10 20180320041920
+WordPress/4.9.4;_http://amritfarm.com 20180331064844
+Apache-HttpClient/4.5.3_(Java/1.8.0_141) 20180317100510
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3092 3092
+From1 0 0
+From2 3 3
+From3 2 2
+From4 489 611
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.siteindexed.com/myurl=amritfarm.com 1 1
+http://192.185.129.194 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 2 452
+405 2 84
+301 6 0
+403 3 7599
+404 66 166140
+400 2 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/blog/wp-includes/wlwmanifest.xml 1 -
+/robots.txt 13 http://www.amritfarm.com/robots.txt
+/contact-us/ 2 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/sitemap.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/amrit/images/after2.png 7 http://amritfarm.com/
+/apple-app-site-association 2 -
+/license.php 1 -
+/feed/ 1 http://127.0.0.1/wpbase/url.php
+/wp-content/themes/amrit/fonts/fontawesome-webfont.woff2 7 http://amritfarm.com/wp-content/themes/amrit/css/font-awesome.min.css
+/wp/wp-includes/wlwmanifest.xml 1 -
+/ads.txt 1 -
+/wp-content/themes/amrit/images/after.png 7 http://amritfarm.com/
+/.well-known/apple-app-site-association 2 -
+/services/ 3 http://amritfarm.com/
+/wp-json/wp/v2/users/ 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/xmlrpc.php 1 -
+/wp-content/themes/amrit/css/bootstrap.min.css.map 3 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/.well-known/assetlinks.json 2 -
+/http%3A%2F%2Fwww%2EAMRITFARM%2Ecom%2F 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/about-us/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 176
+212.83.175.107 3009 3009 1951599 20180317084630
+186.179.105.118 24 24 77684 20180324195513
+189.216.158.38 24 24 77684 20180317025305
+200.3.144.171 24 24 77684 20180320205247
+187.212.11.140 24 24 75761 20180327025910
+201.69.242.155 24 24 77684 20180320162223
+112.200.196.88 24 24 75761 20180326075159
+201.110.235.123 24 24 77684 20180323193128
+189.203.225.106 24 24 77684 20180322003507
+129.208.176.95 24 24 77684 20180323212953
+200.76.47.219 24 24 77684 20180322180721
+187.40.57.234 24 24 75761 20180328222415
+187.144.169.52 24 24 75761 20180326214457
+177.157.224.53 24 24 77684 20180325192631
+112.198.76.87 24 24 77684 20180319102308
+27.109.17.66 23 114 18918345 20180327125543
+177.248.174.245 16 16 50193 20180329000540
+192.185.129.194 10 10 0 20180331064844
+93.179.69.161 8 8 214294 20180322192226
+106.223.202.38 5 36 6223893 20180326110114
+52.165.148.51 5 5 295237 20180330094119
+162.242.156.106 4 4 204172 20180325021824
+167.114.65.240 3 3 153129 20180317153639
+218.241.108.76 3 3 153129 20180320091408
+180.151.85.242 3 3 153129 20180323102242
+116.10.199.11 1 1 2551 20180325121403
+147.0.106.10 1 1 2551 20180324181606
+161.106.2.21 1 1 51043 20180318010622
+113.140.48.158 1 1 2551 20180324114747
+120.195.144.226 1 1 2551 20180324154135
+60.174.130.19 1 1 2551 20180323140846
+54.163.46.173 1 1 51043 20180325034733
+122.160.1.62 1 1 2551 20180323192753
+24.39.144.162 1 1 2551 20180323121858
+82.146.93.129 1 1 2551 20180324220934
+66.249.93.53 1 1 51043 20180316232432
+88.99.227.180 1 1 2551 20180324080346
+218.104.207.53 1 1 2551 20180325131450
+138.118.6.39 1 1 2551 20180325002356
+58.214.24.53 1 1 2551 20180323212031
+178.64.174.16 1 1 2551 20180323223716
+219.139.131.21 1 1 2551 20180324031327
+109.252.15.13 1 1 51043 20180319171536
+118.112.98.17 2 2 102086 20180317144244
+58.64.214.13 1 1 2551 20180323185327
+218.22.96.76 1 1 2551 20180325022501
+54.148.252.235 1 1 51043 20180319210416
+108.2.205.10 1 1 2551 20180323155804
+64.233.172.236 2 2 102086 20180318114058
+103.36.124.251 1 1 2551 20180324202153
+223.220.248.78 2 2 5102 20180325114928
+158.69.229.134 1 1 51043 20180319050753
+217.165.77.27 2 2 5449 20180331073240
+220.225.7.90 1 1 2551 20180323170836
+85.129.205.145 1 1 2551 20180323105020
+34.244.135.65 1 1 51043 20180320041920
+66.249.88.54 1 1 51043 20180316232434
+61.153.57.86 1 1 2551 20180323133406
+222.137.252.18 1 1 2551 20180324085610
+81.27.79.18 1 1 2551 20180324193039
+59.48.82.14 1 1 2551 20180324112504
+104.192.74.20 2 2 142108 20180329184805
+35.162.25.66 1 1 51043 20180316210417
+41.39.15.137 1 1 2551 20180324024541
+212.194.123.17 1 1 2551 20180324170004
+24.68.113.109 1 1 2551 20180324002841
+59.152.251.6 1 1 2551 20180325015624
+34.245.198.150 1 1 51043 20180318090926
+176.31.162.251 1 1 2551 20180324190639
+171.217.59.55 1 1 71054 20180331064846
+18.232.141.183 1 1 51043 20180316194007
+158.140.130.62 1 1 2551 20180323114850
+137.226.113.27 1 1 51066 20180321065243
+103.194.90.58 1 1 2551 20180323173955
+69.58.178.56 1 1 51043 20180321141733
+122.155.132.195 1 1 2551 20180323204612
+202.51.116.170 1 1 2551 20180325053107
+66.249.93.49 1 1 51043 20180316232433
+221.195.199.47 1 1 2551 20180323155755
+158.140.138.173 1 1 2551 20180325143406
+61.158.188.21 1 1 2551 20180325110439
+103.209.204.253 1 1 2551 20180323105001
+182.75.206.94 1 1 2551 20180324024537
+138.68.29.214 1 1 51043 20180318012944
+52.174.144.150 1 1 2551 20180323121933
+34.245.69.54 1 1 51043 20180319034444
+118.254.8.66 1 1 2551 20180325035831
+103.206.128.37 1 1 2551 20180325071549
+223.197.223.219 1 1 2551 20180323114922
+82.146.93.72 1 1 2551 20180324080348
+113.160.145.134 1 1 2551 20180324103411
+157.119.227.25 1 1 2551 20180324163624
+186.1.186.50 1 1 2551 20180325143408
+103.206.131.93 1 1 2551 20180324073806
+171.34.72.157 1 1 2551 20180324101013
+166.150.15.175 1 1 2551 20180324204558
+54.186.245.106 1 1 51043 20180318210405
+46.101.75.39 1 1 2551 20180324130420
+221.6.10.130 1 1 2551 20180324202156
+219.159.229.115 1 1 2551 20180324135914
+66.96.207.84 1 1 2551 20180325131446
+137.226.113.26 2 2 102134 20180320043805
+60.28.130.42 1 1 2551 20180324204515
+109.170.160.102 1 1 2551 20180323212033
+58.210.224.214 1 1 2551 20180324151805
+61.178.249.26 1 1 2551 20180325082504
+110.249.178.13 1 1 2551 20180323133402
+222.218.17.20 1 1 2551 20180324175203
+118.112.98.40 1 1 71054 20180327172817
+124.207.8.147 1 1 2551 20180324142510
+110.88.44.251 1 1 51043 20180317010752
+37.71.201.130 1 1 2551 20180324193044
+60.6.230.88 1 1 2551 20180324190655
+206.214.8.27 1 1 2551 20180324114756
+70.42.131.170 1 1 51043 20180318010313
+61.184.36.53 1 1 2551 20180324101015
+103.194.89.35 2 2 5102 20180325093723
+138.118.4.81 1 1 2551 20180324061409
+113.107.67.122 1 1 2551 20180324170229
+103.61.101.11 1 1 2551 20180324012419
+222.218.17.187 1 1 2551 20180325053110
+212.3.174.103 1 1 2551 20180323223728
+62.16.254.3 1 1 2551 20180324061411
+66.102.8.53 1 1 51043 20180316232328
+111.50.29.167 1 1 2551 20180324002844
+103.61.101.5 1 1 2551 20180324220939
+81.83.249.234 1 1 2551 20180323152332
+83.194.169.53 1 1 2551 20180323152337
+203.207.219.21 1 1 2551 20180324012432
+103.61.101.19 1 1 2551 20180324031323
+167.114.232.244 1 1 51043 20180317000800
+104.238.248.15 1 1 51043 20180316194505
+71.43.17.43 1 1 2551 20180323204559
+54.173.173.203 1 1 51043 20180321160651
+123.81.80.96 1 1 2551 20180324163553
+81.255.240.43 1 1 51043 20180318063229
+104.192.74.22 2 2 102086 20180317203040
+34.212.32.45 1 1 71054 20180327003732
+82.194.18.98 1 1 2551 20180324181604
+201.116.126.229 1 1 2551 20180324135911
+31.14.135.249 1 1 2551 20180325071552
+118.185.172.36 1 1 2551 20180323170842
+103.194.90.130 1 1 2551 20180324124113
+219.129.7.218 1 1 2551 20180323173959
+111.113.5.190 1 1 2551 20180324151809
+61.138.246.86 1 1 2551 20180325095759
+218.201.14.134 1 1 2551 20180324014940
+79.143.189.109 1 1 2551 20180324064420
+222.171.62.81 1 1 2551 20180325002400
+157.122.183.218 2 2 5102 20180324124109
+54.221.152.4 1 1 51043 20180320184848
+218.22.180.146 1 1 2551 20180324142505
+221.211.54.2 1 1 2551 20180323185352
+59.12.230.26 1 1 51043 20180317095426
+138.246.253.19 1 1 0 20180329215935
+116.228.141.62 1 1 2551 20180324103408
+166.246.192.219 1 1 2551 20180325005159
+112.169.246.50 1 1 51043 20180317100510
+190.114.254.196 1 1 2551 20180324130426
+144.76.219.43 1 1 0 20180317075120
+27.151.73.73 2 2 102086 20180322152501
+34.214.249.181 1 1 71054 20180328162112
+106.37.198.130 1 1 2551 20180323192750
+218.23.85.50 1 1 2551 20180325064507
+157.119.50.130 1 1 2551 20180324154138
+111.160.40.106 1 1 2551 20180324073811
+66.102.9.49 1 1 51043 20180317144630
+159.203.250.129 1 1 2551 20180324064424
+118.126.113.60 1 1 2551 20180324085606
+89.186.10.162 1 1 2551 20180324225539
+221.224.251.162 1 1 2551 20180325005202
+14.161.42.137 1 1 2551 20180325093710
+58.97.157.236 1 1 51043 20180317045130
+192.0.99.138 1 1 51043 20180317015838
+61.180.38.132 1 1 2551 20180325035821
+61.132.87.131 1 1 2551 20180325110443
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20180316 8 8 408344 8
+20180317 3049 3049 2794928 14
+20180318 9 9 459387 8
+20180319 29 29 332924 6
+20180320 54 54 461649 7
+20180321 8 8 311342 5
+20180322 53 53 313558 4
+20180323 79 79 379925 31
+20180324 84 84 376220 61
+20180325 53 53 297139 30
+20180326 76 191 25171663 8
+20180327 30 37 288923 7
+20180328 28 28 217869 5
+20180329 20 20 192301 4
+20180330 2 2 71054 2
+20180331 4 4 76503 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 3
+5mn-15mn 2
+15mn-30mn 1
+0s-30s 197
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/xmlrpc.php 3008 1846972 0 1
+/wp-login.php 467 1423267 127 127
+/ 83 4502138 64 61
+/wp-cron.php 10 0 10 10
+/wp-content/themes/amrit/fonts/fontawesome-webfont.woff 4 261808 0 3
+/wp-content/themes/amrit/fonts/glyphicons-halflings-regular.woff2 4 72112 0 0
+/wp-content/themes/amrit/fonts/HelveticaNeue-Medium.ttf 4 496096 2 0
+/wp-content/themes/amrit/fonts/HelveticaNeue.ttf 4 511392 0 0
+/errors/ResellerHosting.php 1 27695 0 1
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+END_SIDER

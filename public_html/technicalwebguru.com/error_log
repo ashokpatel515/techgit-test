@@ -1,0 +1,11 @@
+[28-Jun-2018 11:32:30 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 231
+[28-Jun-2018 11:32:33 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 231
+[28-Jun-2018 11:32:44 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 231
+[28-Jun-2018 11:32:48 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 231
+[28-Jun-2018 11:34:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 232
+[28-Jun-2018 11:34:56 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 228
+[28-Jun-2018 11:34:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 228
+[28-Jun-2018 11:35:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 232
+[28-Jun-2018 11:35:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 232
+[28-Jun-2018 11:36:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 232
+[28-Jun-2018 11:36:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/amritfar/public_html/technicalwebguru.com/wp-content/themes/tech2/inc/widgets/widgets.php on line 232

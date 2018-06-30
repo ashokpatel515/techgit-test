@@ -1,0 +1,683 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/amritfar/tmp/awstats/awstats.amritfarm.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2679                
+POS_VISITOR 18579               
+POS_DAY 21366               
+POS_DOMAIN 3493                
+POS_LOGIN 3940                
+POS_ROBOT 4095                
+POS_WORMS 4458                
+POS_EMAILSENDER 4589                
+POS_EMAILRECEIVER 4732                
+POS_SESSION 22070               
+POS_SIDER 22248               
+POS_FILETYPES 4867                
+POS_DOWNLOADS 5136                
+POS_OS 5241                
+POS_BROWSER 5490                
+POS_SCREENSIZE 6600                
+POS_UNKNOWNREFERER 6674                
+POS_UNKNOWNREFERERBROWSER 6924                
+POS_ORIGIN 7059                
+POS_SEREFERRALS 7197                
+POS_PAGEREFS 7341                
+POS_SEARCHWORDS 7508                
+POS_KEYWORDS 7660                
+POS_MISC 2343                
+POS_ERRORS 7719                
+POS_CLUSTER 3796                
+POS_SIDER_404 7904                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180630044215 1273 309240 13224303114149
+FirstTime 0
+LastTime 20180629172701
+LastUpdate 20180630045138 58 0 58 0 0
+TotalVisits 105                 
+TotalUnique 65                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 70                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 8 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 57 85 939592 13 27 459785
+1 5 5 473188 25 53 3306510
+2 9 11 348144 73 114 4397263
+3 7 9 714705 47 50 3530392
+4 8 8 712658 73 74 1136922
+5 4 4 208580 42 42 1376910
+6 5 5 298482 34 44 1365691
+7 6 6 332686 31 33 1460888
+8 6 7 406214 38 41 1232625
+9 2 2 206804 29 69 2426982
+10 6 39 1129372 58 101 3725565
+11 6 6 319063 47 58 1109362
+12 1 1 103402 54 66 1220199
+13 5 5 94022 48 53 941396
+14 130 130 773214 63 63 1487723
+15 16 94 10735307 95 141 4848898
+16 11 41 1891883 84 97 2392133
+17 12 85 11431874 72 91 2353570
+18 4 6 415936 77 78 2572949
+19 7 8 735855 66 94 1724468
+20 11 57 14182978 62 71 1698059
+21 1 1 103402 45 52 1090270
+22 4 21 908398 47 47 1741369
+23 4 4 312947 17 22 2411584
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+ua 137 137 776680
+us 72 195 24671473
+ru 63 65 687413
+ca 13 120 16272121
+in 9 90 3075581
+gb 9 9 817268
+nl 5 5 517010
+ro 3 3 8223
+cn 3 3 310206
+fr 3 3 94022
+de 2 2 2741
+ge 2 2 6478
+bg 2 2 206804
+th 2 2 125882
+it 1 1 103402
+ma 1 1 103402
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 278 8250340 20180629152953 38
+googlebot\-image 15 9324454 20180613161302 0
+unknown 6 402 20180627132406 6
+no_user_agent 2 194790 20180610101334 0
+crawl 1 103402 20180611105630 0
+bot[\s_+:,\.\;\/\\-] 1 67 20180622042047 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+ttf 5 627768 0 0
+css 89 3039352 0 0
+html 109 10368633 0 0
+xml 3 3135 0 0
+php 204 550243 0 0
+woff2 5 251744 0 0
+js 121 2852696 0 0
+png 54 16095723 0 0
+txt 2 37938 0 0
+jpg 47 13950906 0 0
+Unknown 1 568 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/contact-form-7/license.txt 2 0 37938
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 17 17
+win8.1 1 1
+linux 170 25
+win7 60 27
+macosx8 1 1
+linuxubuntu 1 1
+ios_iphone 1 1
+win8 1 0
+winnt 227 203
+macosx7 1 0
+linuxandroid 90 12
+Unknown 53 22
+winxp 14 14
+winlong 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 52
+safari11.0 1 1
+firefox59.0 1 1
+chrome34.0.1847.116 1 1
+chrome65.0.3325.181 29 5
+firefox51.0 1 1
+opera42.0.5968.0696 1 1
+chrome56.0.2924.87 1 1
+msie6.0 1 1
+chrome5.0.375.99 7 7
+firefox34.0 2 2
+firefox60.0 35 2
+chrome66.0.3359.158 87 9
+chrome11.0.678.0 1 0
+android 2 2
+chrome36.0.1985.67 1 1
+firefox29.0 2 2
+chrome66.0.3359.181 3 3
+chrome65.0.3325.162 1 1
+firefox32.0 1 1
+firefox45.69.22 1 1
+firefox48.0 1 1
+chrome26.0.1410.65 1 1
+chrome46.0.2754.75 1 1
+firefox52.0 1 1
+mozilla 43 12
+chrome63.0.3239.132 182 182
+chrome45.0.2454.94 1 1
+chrome61.0.3163.100 10 10
+firefox38.0 2 2
+chrome60.0.3112.113 2 2
+chrome51.0.2704.79 1 1
+chrome37.0.2062.124 1 1
+chrome67.0.3396.87 5 5
+chrome62.0.3202.94 1 1
+chrome49.0.2623.75 28 14
+chrome58.0.3029.110 2 2
+chrome31.0.1650.57 5 5
+firefox55.0 1 1
+seamonkey 1 1
+chrome24.0.1290.1 1 1
+firefox53.0 1 1
+chrome50.0.2661.75 5 5
+Unknown 11 11
+chrome67.0.3372.0 60 5
+chrome38.0.2125.101 80 4
+chrome57.0.2987.133 1 1
+firefox42.0 1 1
+chrome19.0.1055.1 1 0
+chrome53.0.2785.143 2 2
+msie7.0 3 3
+chrome17.0.963.56 1 1
+chrome11.0.696.71 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/4.9.6;_http://amritfarm.com 20180628222627
+Mozilla/5.0_(compatible;_ips-agent) 20180605193445
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180623203935
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/4.9.6;_http://amritfarm.com 20180628222627
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 200 250
+From1 8 8
+From2 0 0
+From3 5 5
+From4 114 377
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://site.ru 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 12 30396
+206 22 403306
+302 282 0
+500 517 1324779
+405 6 252
+400 7 0
+406 18 4068
+301 65 0
+404 341 30375257
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 227
+/wp-content/plugins/wordpress-seo/admin/views/tabs/social/debug.php 2 http://site.ru
+/wp-content/wp-object-cache.php 1 amritfarm.com
+/wp-includes/Text/Diff/Engine/1.php 2 http://site.ru
+/wp-index.php 1 amritfarm.com
+/index8632.php 1 http://site.ru
+/wp-content/wpcontensapp.php 1 amritfarm.com
+/ads.txt 1 -
+/Camilles.php 1 http://site.ru
+/wp-content/plugins/contact-form-7/admin/includes/Marvins.php 1 http://site.ru
+/wp-includes/css/style.css.php 1 amritfarm.com
+/ws0.php 2 http://site.ru
+/wp-content/plugins/jetpack/modules/google-analytics/panda.php 2 http://site.ru
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/user/register 1 -
+/generationmap.php 3 http://site.ru
+/print.php 1 http://site.ru
+/dsfghs.php 2 http://site.ru
+/wp-content/plugins/google-analytics-masters/mark.php 1 http://site.ru
+/wp-updats.php.suspected 1 http://site.ru
+/wp-content/uploads/cache.php 1 http://site.ru
+/wp-content/plugins/xcalendar/data/lefttopcorner.gif 1 amritfarm.com
+/wp-content/themes/annotum-baes/xml_rpc.class.php 1 http://site.ru
+/wp-custm.php 1 -
+/system.php 2 http://site.ru
+/wp-content/plugins/three-column-screen-layout/db.php 1 http://site.ru
+/test/wp-content/plugins/easyrotator-for-wordpress/indox.php 2 http://site.ru
+/load-config.php 2 http://site.ru
+/cool.php 3 http://site.ru
+/wp-content/themes/twentyeleven/colors/debug.php 1 http://site.ru
+/Pamelas.php 2 http://site.ru
+/wp-content/plugins/ls-oembed/data/index.php 1 amritfarm.com
+/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js 1 -
+/wp-xmlrpc.php 2 http://site.ru
+/wp-content/plugins/ubh/Marvins.php 7 http://site.ru
+/old/wp-content/plugins/easyrotator-for-wordpress/wj.php 2 http://site.ru
+/wp-includes/Text/Tiff.php 1 -
+/wp-content/plugins/fac/asu.php 1 http://site.ru
+/wp-content/plugins/user-photo/admin.css 1 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp-includes/js/jcrop/jcrop.php 2 http://site.ru
+/lib.php 2 http://site.ru
+/wp-content/plugins/JumanNafis/Vand.php 3 http://site.ru
+/categories.php 1 http://site.ru
+/wp-includes/Text/Diff/Engine/yusa.php 1 http://site.ru
+/wp-content/plugins/arforms/js/filedrag/filedrag.js 1 amritfarm.com
+/wp-content/plugins/showbiz/showbiz-plugin/css/settings.css 1 amritfarm.com
+/safnofifaewmer923 1 amritfarm.com
+/home.php 1 http://site.ru
+/verygs.php 2 http://site.ru
+/wp-apps.php 3 http://site.ru
+/mod_ariimageslidersa.php 2 http://site.ru
+/wp-includes/js/thickbox/thickbox.php 3 http://site.ru
+/wp-content/plugins/wp-db-backup-made/system.php 1 http://site.ru
+/wp-content/uploads/2017/02/db.php 1 http://site.ru
+/wp-includes/css/xlqstke.php 1 http://site.ru
+/config-sample.php 2 http://site.ru
+/wp-content/wp-trackbacksys.php 1 amritfarm.com
+/wp-includes/logo_img.php 2 http://site.ru
+/wp-content/wp-scaches.php 1 amritfarm.com
+/wp-includes/Text/Diff/Engine/engine.php 2 http://site.ru
+/wp-admin/includes/class-wp-ms-remove-table.php 1 amritfarm.com
+/aa.php 1 http://site.ru
+/wp-admin/images/wp-upload.php 1 amritfarm.com
+/baws.php 1 http://site.ru
+/text.php 1 http://site.ru
+/w2.php 3 http://site.ru
+/wp-content/themes/sketch/404.php.suspected 1 http://site.ru
+/wp-content/plugins/minify-html-markups/minimal.php 3 http://site.ru
+/wp-includes/SimplePie/Decode/HTML/daabug.php 1 http://site.ru
+/yusa.php 1 http://site.ru
+/wp-admin/images/maink.php 2 http://site.ru
+/ok.php 2 http://site.ru
+/mary.php 1 http://site.ru
+/wp-content/plugins/three-column-screen-layout/db.php.suspected 1 http://site.ru
+/wp-content/uploads/2018/01/ask.php 1 http://site.ru
+/db-config.php 1 http://site.ru
+/c.php 3 http://site.ru
+/hello.php 2 http://site.ru
+/authorize.php 3 http://site.ru
+/wp-content/plugins/ubh/imnus.php 1 http://site.ru
+/wp-includes/js/tinymce/plugins/media/update.php 1 http://site.ru
+/wp-content/themes/twentyfifteen/js/hfnrnd.php 2 http://site.ru
+/wp-content/plugins/aksimet/class.aksimet.php 1 http://site.ru
+/index1.php 2 http://site.ru
+/wp-press.php 2 http://site.ru
+/assets/images/wp-post.php 1 http://site.ru
+/wp-content/plugins/pluginsmonsters/data/index.php 1 amritfarm.com
+/wp-content/plugins/assembly/js/js.php 1 amritfarm.com
+/m1.php 2 http://site.ru
+/miwed.php 1 http://site.ru
+/wp-content/plugins/ajax-user/mini.php.fla 1 http://site.ru
+/wp-content/uploads/wp-post.php 2 http://site.ru
+/ekomi/popup-pomo.php 1 http://site.ru
+/pdo.inc.php 1 http://site.ru
+/error_log.php 1 http://site.ru
+/wp-content/plugins/revslider/temp/update_extract/conf.php 3 http://site.ru
+/wp-includes/class.wp-tmps.php 1 amritfarm.com
+/class-wp-defaults.php 1 http://site.ru
+/modules/modules.php 1 amritfarm.com
+/wp-includes/pomo/w7388n.php 1 amritfarm.com
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/plugins/wp_edit_pro/includes/helpers/font_uploader.php 1 amritfarm.com
+/.smileys/systems.php 1 http://site.ru
+/wp-content/themes/wp-conns.php 1 amritfarm.com
+/2.php 1 http://site.ru
+/wp-content/uploads/wysija/themes/main/ 1 -
+/images/CONFIGURATIONS.php 1 amritfarm.com
+/wp-content/plugins/easyrotator-for-wordpress/cache.php 1 http://site.ru
+/wp-content/plugins/background-image-cropper/image/ico/search.php 2 amritfarm.com
+/CWyIog.php 2 http://site.ru
+/modx.php 2 http://site.ru
+/wp-content/themes/gaukingo/db.php 1 http://site.ru
+/wp-content/endurance-page-cache/author/betcrooks/gheds.php 1 http://site.ru
+/wp-content/wp-acsesapps.php 1 amritfarm.com
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 http://site.ru
+/wp-includes/images/smilies/Marvins.php 1 http://site.ru
+/wp-content/plugins/sitespeed/sitespeed-update.php 1 amritfarm.com
+/wp-admin/images/cache.php 2 http://site.ru
+/wp-admin/user/reader.php 2 http://site.ru
+/indax.php 1 amritfarm.com
+/wp-includes/js/crop/systems.php 2 http://site.ru
+/wp-content/themes/twentysixteen/header.php 1 http://site.ru
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-content/plugins/easyrotator-for-wordpress/cache.php.suspected 2 http://site.ru
+/wp-content/uploads/cache/wpml/twig/Marvins.php 1 http://site.ru
+/wp-content/plugins/tassembly/js/js.php 1 amritfarm.com
+/wp-content/plugins/szalog.php 1 amritfarm.com
+/food.php 1 http://site.ru
+/wp-content/plugins/revslider/admin/assets/imports/web-product-light-hero-3d/pouimeq.php 1 http://site.ru
+/joomla/robots.txt 1 -
+/hx.php 1 http://site.ru
+/wp-sbb.php 1 amritfarm.com
+/wp-content/uploads/2017/12/server.php 1 http://site.ru
+/lndex.php 1 http://site.ru
+/pasts.php 1 http://site.ru
+/LICENSE.php 1 -
+/wp-content/plugins/contact-form-7/includes/css/yhged.php 2 http://site.ru
+/wp-content/plugins/groupsassembly/js/js.php 1 amritfarm.com
+/dex.php 1 amritfarm.com
+/wp-inc.php 2 http://site.ru
+/df.php 1 http://site.ru
+/wp-models.php 1 http://site.ru
+/wp-content/wp-scachwp.php 1 amritfarm.com
+/wp-content/plugins/jetpack/_inc/jetpack-icons/font/server.php 2 http://site.ru
+/wp-admin/includes/wp-cods.php 1 amritfarm.com
+/2083 1 -
+/scc.php 1 http://site.ru
+/wp-content/plugins/google-sitemap-generator/.move2.php 1 http://site.ru
+/wp-content/themes/sketch/404.php 1 http://site.ru
+/wp-api.php 1 http://site.ru
+/wp-includes/js/tinymce/plugins/wpemoji/403.php 3 http://site.ru
+/b.php 2 http://site.ru
+/wp-content/themes/Divi 1 http://site.ru
+/stats/wp-caches.php 1 http://site.ru
+/wp-content/plugins/JumanNafis/wso.php 2 http://site.ru
+/xmlrpc.php 6 -
+/wp-system.php.suspected 3 http://site.ru
+/wordpress/wp-content/plugins/easyrotator-for-wordpress/cache.php 1 http://site.ru
+/hivcxa.php 1 amritfarm.com
+/yjh.php 1 amritfarm.com
+/hexhglal.php 1 http://site.ru
+/wp-admin/logo_img.php 1 http://site.ru
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/Meuhy.php 2 http://site.ru
+/models.php 2 http://site.ru
+/wp-logi 3 -
+/wp-admin/admin_info.php 1 http://site.ru
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/plugins/woo-thank-you-page-nextmove-lite/readme.txt 1 amritfarm.com
+/includes/img/mode.php 2 http://site.ru
+/wp-content/uploads/2016/12/r11-1.php 2 http://site.ru
+/admin_login.php 2 http://site.ru
+/wp-post.php 2 http://site.ru
+/00.php 2 http://site.ru
+/wp-content/plugins/JumanNafis/ind.php 2 http://site.ru
+/sitemap.xml 2 -
+/wp-content/plugins/plugin/info.php 1 http://site.ru
+/w.php 1 http://site.ru
+/wp-content/systems.php 3 http://site.ru
+/wp-content/themes/sketch/wp-wpphp.php 2 http://site.ru
+/wss.php 1 http://site.ru
+/wp-content/uploads/wp-wpphp.php 1 http://site.ru
+/wp-admin/css/colors/ectoplasm/smile.php 1 http://site.ru
+/systems.php 3 http://site.ru
+/wp-content/uploads/wp-dbs.php 1 -
+/wp-admin/css/colors/blue/Marvins.php 2 http://site.ru
+/cli/851.php 1 http://site.ru
+/wp-info.php 2 http://site.ru
+/wp-content/plugins/contact-form-7/includes/js/kytjgfg.php 1 http://site.ru
+/wp-includes/class.wp.php 1 -
+/wp-content/plugins/myshe.php 1 amritfarm.com
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/xGASUPx.php 2 http://site.ru
+/wp-admin/home.bak.php 1 amritfarm.com
+/tmp.php 1 amritfarm.com
+/k.php 1 http://site.ru
+/inc.php 2 http://site.ru
+/media/media.php 1 -
+/wp-content/plugins/SwiftSecurity/Documentation/index.html 1 amritfarm.com
+/wp-includes/SimplePie/Cache/Meuhy.php 1 http://site.ru
+/wp-admin/includes/rnnvhs.php 1 amritfarm.com
+/prom.php 1 http://site.ru
+/wp-includes/Text/Diff/Engine/text.php 1 http://site.ru
+/wp-content/plugins/wp-statistics/vendor/s1lentium/iptools/tests/Sung.php 1 http://site.ru
+/wp-content/plugins/pluginsamonsters/data/index.php 1 amritfarm.com
+/therm.php 3 http://site.ru
+/wp-includes/Text/Diff/Engine/idx.php.pjpeg 1 http://site.ru
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/plugins/groupdocsassembly/js/js.php 1 amritfarm.com
+/wp-content/wmsconfigs.php 1 amritfarm.com
+/wp-includes/images/hon2our.php 1 amritfarm.com
+/wp-includes/Text/Diff/Engine/header.php.pjpeg 2 http://site.ru
+/wp-content/themes/error-log.php 1 amritfarm.com
+/wp-content/plugins/wpfw_menus_management/styles/menus.css 1 amritfarm.com
+/wp-content/plugins/DAP-WP-LiveLinks/includes/css/autocanceltemplate.css 1 amritfarm.com
+/wp-content/wp-plugins.php 1 http://site.ru
+/admin.php 2 -
+/blog/robots.txt 1 -
+/wp-pols.php 1 amritfarm.com
+/wp-admin/maint/repost.php 2 http://site.ru
+/wp-system.php 1 http://site.ru
+/wp-updats.php 1 http://site.ru
+/customizer.php 1 http://site.ru
+/y.php 2 http://site.ru
+/xml.php 15 http://site.ru
+/ajax-requests.new.php 2 http://site.ru
+/administrator/includes/readmy.php 1 amritfarm.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 70
+178.137.165.32 125 125 359606 20180609142632
+146.185.223.112 55 55 140880 20180607000536
+192.185.129.194 11 11 0 20180628222627
+167.114.117.176 9 40 13507169 20180623203940
+13.57.220.0 7 7 723814 20180620181308
+66.102.6.179 6 12 627396 20180621181634
+148.62.14.156 5 5 473188 20180610015514
+163.172.4.153 5 5 517010 20180623032741
+192.0.99.138 5 60 10216745 20180625171734
+91.210.146.27 4 4 198246 20180619080053
+207.102.138.158 4 80 2764952 20180622005456
+66.102.6.177 4 5 414772 20180620175147
+5.2.166.255 3 3 8223 20180613150405
+52.53.201.78 3 3 310206 20180629044804
+75.149.221.170 3 3 310206 20180615164207
+37.187.77.211 3 3 94022 20180605131806
+49.213.50.75 3 27 1057683 20180611164711
+80.93.187.145 3 3 195648 20180628045029
+69.58.178.58 3 3 321083 20180605193445
+66.102.6.181 3 9 317190 20180619165125
+223.181.16.250 3 27 993337 20180605155608
+51.38.14.170 2 2 105178 20180613055250
+66.249.82.149 2 7 2734810 20180605155336
+167.99.220.54 2 2 0 20180617020912
+185.56.80.242 2 2 206804 20180620043643
+50.63.160.72 1 1 0 20180613024916
+93.179.69.161 1 1 103402 20180622145834
+66.249.82.221 0 7 208431 
+52.165.129.203 1 1 103402 20180614023917
+180.169.191.142 1 1 103402 20180623102143
+88.99.63.132 1 1 103402 20180624153250
+46.101.80.192 1 1 103402 20180624052831
+54.200.33.35 1 1 103402 20180624210218
+64.233.173.49 1 1 103402 20180605185105
+193.106.30.99 2 2 104811 20180625075428
+35.162.98.68 1 1 103402 20180618094053
+66.249.82.223 0 4 436442 
+64.233.172.232 1 2 104566 20180622191730
+31.184.192.185 1 1 2741 20180603233411
+134.249.50.185 2 2 104447 20180617153148
+5.45.86.144 1 1 0 20180620132124
+66.249.82.86 1 9 388338 20180605155336
+188.166.22.77 2 2 206804 20180619101507
+66.249.82.147 0 7 1882838 
+185.156.177.76 1 1 103402 20180611070731
+108.61.172.36 2 2 206902 20180607114515
+66.249.82.87 0 4 253647 
+66.249.82.85 0 9 1952246 
+80.228.231.22 1 1 2741 20180626115938
+182.71.47.195 1 1 103402 20180613121137
+52.35.122.29 1 1 103402 20180620080936
+95.181.179.64 1 3 141340 20180611023115
+66.249.82.148 1 6 256036 20180605155336
+173.0.63.92 1 1 103402 20180616174109
+46.148.17.90 2 2 3552 20180629172701
+193.32.94.149 1 1 91678 20180613065409
+206.189.65.138 1 1 91965 20180606034522
+167.99.101.74 1 1 103402 20180606033617
+52.165.148.51 2 2 206804 20180629034648
+122.155.219.29 2 2 125882 20180619072257
+45.227.254.241 1 1 103402 20180618044457
+91.134.248.245 2 2 206804 20180622172417
+27.109.17.66 2 35 921159 20180619104552
+79.137.69.80 1 1 103402 20180625142500
+5.189.162.237 1 1 0 20180613024620
+66.249.82.222 1 6 1406632 20180605155336
+218.241.108.76 2 2 206804 20180606191004
+95.104.61.189 2 2 6478 20180620153224
+91.210.145.242 2 2 6018 20180620112139
+206.180.165.147 1 1 103402 20180608030508
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20180601 2 2 206804 1
+20180602 1 2 104566 1
+20180603 2 3 107307 2
+20180604 1 2 104566 1
+20180605 17 96 11239232 10
+20180606 4 4 402171 3
+20180607 62 63 555750 6
+20180608 1 1 103402 1
+20180609 132 148 1346785 8
+20180610 7 7 473188 4
+20180611 7 34 1406991 5
+20180612 1 1 103402 1
+20180613 12 29 1210464 9
+20180614 4 22 1012964 4
+20180615 1 1 103402 1
+20180616 2 2 206804 2
+20180617 5 5 104447 3
+20180618 4 5 414772 4
+20180619 12 46 1558066 7
+20180620 11 12 530670 8
+20180621 1 2 104566 1
+20180622 7 36 1418512 6
+20180623 11 42 13713973 3
+20180624 4 4 413608 4
+20180625 7 62 10423549 3
+20180626 1 1 2741 1
+20180628 4 4 195648 2
+20180629 4 4 210356 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 6
+5mn-15mn 1
+0s-30s 97
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/xmlrpc.php 114 58578 0 1
+/ 86 8685866 74 65
+/wp-login.php 73 262381 5 6
+/wp-cron.php 11 0 10 10
+/contact-us/ 4 367860 1 1
+/feed/ 4 7104 2 3
+/gallary/ 4 471810 0 1
+/author/amritfarm/ 4 366712 2 3
+/about-us/ 3 278784 1 1
+/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff2 3 215688 1 1
+/wp-content/themes/amrit/fonts/HelveticaNeue-Medium.ttf 3 372072 1 2
+/wp-includes/wlwmanifest.xml 3 3135 0 1
+/wp-content/themes/amrit/fonts/HelveticaNeue.ttf 2 255696 1 1
+/services/ 2 188520 0 0
+/wp-content/themes/amrit/fonts/glyphicons-halflings-regular.woff2 2 36056 1 2
+/info.php 2 125882 1 1
+/wp-json/wp/v2/users 1 568 0 0
+/wp-content/plugins/index.php 1 0 1 1
+/index.php 1 103402 1 1
+/wp-admin/admin-post.php 1 0 1 1
+/wp-json/wp/v2/users/ 1 568 0 1
+/feed/rdf/ 1 1409 1 1
+/wp-content/index.php 1 0 1 1
+END_SIDER
